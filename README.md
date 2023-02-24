@@ -1,4 +1,4 @@
-# 🏠 HOMEWORK #22
+# 🏠 HOMEWORK #22 - JavaScript basics
 
 
 Minimum
